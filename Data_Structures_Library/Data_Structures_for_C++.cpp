@@ -70,7 +70,7 @@ SinglyLLL<T> :: SinglyLLL()
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to insert node at first position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -94,7 +94,7 @@ void SinglyLLL<T> :: InsertFirst(T no)
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to insert node at last position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -131,7 +131,7 @@ void SinglyLLL<T> ::InsertLast(T no)
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to delete node at first position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -167,7 +167,7 @@ void SinglyLLL<T> ::DeleteFirst()
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to delete node at last position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -208,7 +208,7 @@ void SinglyLLL<T> ::DeleteLast()
 //  Input :             Nodes
 //  Output :            Nothing
 //  Description :       Used to Display each node in the linked list
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -236,7 +236,7 @@ void SinglyLLL<T> ::Display()
 //  Input :             Nodes
 //  Output :            Integer
 //  Description :       Used to count the nodes in the given Linked list
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -253,7 +253,7 @@ int SinglyLLL<T> ::Count()
 //  Input :             Data of node and Position
 //  Output :            Nothing
 //  Description :       Used to insert node at given position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -304,7 +304,7 @@ void SinglyLLL<T> ::InsertAtPos(T no, int pos)
 //  Input :             Position
 //  Output :            Nothing
 //  Description :       Used to delete node at given position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -407,7 +407,7 @@ DoublyLLL<T> :: DoublyLLL()
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to insert node at first position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              07/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -438,7 +438,7 @@ void DoublyLLL<T> ::InsertFirst(T no)
 //  Input :             Data of node
 //  Output :            Nothing
 //  Description :       Used to insert node at last position
-//  Author :            Nikhil Ramesh Ahire
+//  Author :            Jayant Deepak Purkar
 //  Date :              06/01/2026
 //
 /////////////////////////////////////////////////////////////////////////////
@@ -1381,5 +1381,6 @@ int main()
     
     return 0;
 }
+
 
 
